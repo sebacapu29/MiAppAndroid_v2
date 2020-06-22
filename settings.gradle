@@ -1,0 +1,2 @@
+rootProject.name='MiAppAndroid_v2'
+include ':app'
